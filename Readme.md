@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView - How to create live-editing
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4923/)**
+<!-- run online end -->
 
 
 <p>This example allows inputting data by navigating with the Tab key. As soon as you filled the last cell, you can press Tab or Enter, and it will be saved to the database and a new row will be created. So, you do not need to use the mouse to create several rows.</p><p>If you press Update or Cancel when editing an existing record, the grid will finish editing and create a new row for you.</p><p><br />
